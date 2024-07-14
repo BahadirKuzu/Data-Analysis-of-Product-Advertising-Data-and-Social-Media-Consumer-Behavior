@@ -1,0 +1,2 @@
+# Data-Analysis-of-Product-Advertising-Data-and-Social-Media-Consumer-Behavior
+ The impact of advertising expenditures on sales volume was assessed using Multiple Linear Regression Analysis. Hypothesis Testing evaluated the effects of different advertising strategies on sales and engagement. Finally, Classification Analysis predicted purchasing outcomes based on consumer attributes such as salary and age.
